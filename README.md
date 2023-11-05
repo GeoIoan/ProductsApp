@@ -27,7 +27,7 @@ The "logger.js" file plays a pivotal role in our application's logging mechanism
 
 ## Summary
 
-In summary, our application follows SOA principles, leveraging Node.js and MongoDB. With a focus on the "model," "controllers," and "routers" directories, along with key configurations in "index.js," "server.js," and "logger.js," we ensure that our app runs smoothly. It offers CRUD functionality for both "Products" and "Users" entities, maintaining a robust and organized structure. Additionally, we use Swagger for API documentation and management (please refer to the "swagger.js" file for more information).
+In summary, our application leverages Node.js and MongoDB. With a focus on the "model," "controllers," and "routers" directories, along with key configurations in "index.js," "server.js," and "logger.js," we ensure that our app runs smoothly. It offers CRUD functionality for both "Products" and "Users" entities, maintaining a robust and organized structure. Additionally, we use Swagger for API documentation and management (please refer to the "swagger.js" file for more information).
 
 ### Dependencies
 
